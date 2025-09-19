@@ -69,7 +69,7 @@ A Java program that:
 ---
 
 ## 🔗 Connect with Me  
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sakshigaikwad02)  
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sakshi-patil-8730b4342)  
 - **GitHub:** [My GitHub Profile](https://github.com/Sakshu2877/CodeSoft)  
 
 ---
