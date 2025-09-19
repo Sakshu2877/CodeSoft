@@ -26,7 +26,7 @@ A Java program that:
 - Assigns a grade based on percentage.  
 - Displays results in a clean console format.  
 
-**File:** [`Task2_StudentResult](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/StudentResult.java)  
+**File:** [`Task2_StudentResult](https://github.com/Sakshu2877/CodeSoft/blob/main/StudentResult.java)  
 
  ### **Task 3 - ATM Interface**  
 A Java program that:  
@@ -37,7 +37,7 @@ A Java program that:
 - Loop-based interaction until user exits
 
 
-  **File:** [Task3_ATM](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/ATM.java)
+  **File:** [Task3_ATM](https://github.com/Sakshu2877/CodeSoft/blob/main/ATM.java)
 
  ### **Task 4 -Currency Converter **  
 A Java program that:  
@@ -47,7 +47,7 @@ A Java program that:
 - Displays converted amount with currency codes
 - Beginner-friendly Java console program
 
-  **File:** [Task4_Currency Converter ](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/CurrencyConverter.java)
+  **File:** [Task4_Currency Converter ](https://github.com/Sakshu2877/CodeSoft/blob/main/CurrencyConverter.java)
 
  ### **Task 5 -Student Management System **  
 A Java program that:  
@@ -58,7 +58,7 @@ A Java program that:
 - Input validation to prevent empty fields
 - Runs entirely in memory (no file or database needed)
 
-**File:** [Task5_STUDENT MANAGEMENT SYSTEM ](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/StudentApp.java)
+**File:** [Task5_STUDENT MANAGEMENT SYSTEM ](https://github.com/Sakshu2877/CodeSoft/blob/main/StudentApp.java)
 
 
 ## 🛠️ Tech Stack  
