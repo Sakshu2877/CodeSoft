@@ -5,8 +5,8 @@ This repository contains the tasks I completed during my **CodSoft Java Developm
 The internship helped me strengthen my **Java programming skills** by building real-world console-based applications.  
 
 📅 Internship Duration  
-Start Date: 10/08/2025
-End Date: 10/09/2025
+Start Date: 20/08/2025
+End Date: 20/09/2025
 
  📌 Tasks Completed  
 
